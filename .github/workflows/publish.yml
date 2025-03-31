@@ -2,8 +2,8 @@ name: Publish Nuget
 on:
   push:
     branches:
-      - master
-      - main
+      - masterx
+      - mainx
 jobs:
   publish:
     runs-on: ubuntu-20.04
